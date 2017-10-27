@@ -8,20 +8,19 @@
 ### Motivation :muscle:    
 In Airport, experience for passengers is very varied, while frequent fliers may find the Airport experience very monotonous and at times cumbersome due to congestion and lengthy procedures, infrequent passengers are always fascinated with the airline travel. Passengers do experiences different activities within Airport, from Airport entry to counters to security queues shops to restaurants to lounges and terminals.  
 These distractions may even lead to the passengers missing their flights.  
-We wanted improve their airport experience and make it seamless.  
+We wanted to improve their airport experience by simplifying the understanding of airport procedure.  
   
   
   
 ### Description :ledger:    
-VistArrow is an android application designed for passengers, which will provide directions (via an Augmented Reality Arrow on Camera Interface) for certain checkpoints that user have to go through.  
+VistArrow is an android application designed for passengers, which gives directions (via an Augmented Reality Arrow on Camera Interface) for certain checkpoints that user have to go through.  
 It uses the GPS technology to calculate the angle between current position & destination coordinates.  
 Paasengers may also search for specific shops in that airport, VistArrow will direct them accordindly.  
   
   
   
 ### How it works :question:  
-Open the app, it will start guiding user to go through certain checkpoints prior to onboard.  
-  
+Open the app, it will start guiding the user to go through certain checkpoints prior the onboard.  
   
   
   
